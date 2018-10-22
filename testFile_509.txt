@@ -1,0 +1,6 @@
+testFile_509.txt
+fist
+head
+perfect
+strict
+ice

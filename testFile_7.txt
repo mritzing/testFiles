@@ -1,0 +1,3 @@
+testFile_7.txt
+earthquake
+clarify

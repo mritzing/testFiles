@@ -1,0 +1,6 @@
+testFile_315.txt
+dialect
+exercise
+chimpanzee
+singer
+check

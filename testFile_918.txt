@@ -1,0 +1,6 @@
+testFile_918.txt
+loss
+novel
+unique
+craft
+transform

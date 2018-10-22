@@ -1,0 +1,6 @@
+testFile_343.txt
+bin
+elite
+frown
+penetrate
+crack

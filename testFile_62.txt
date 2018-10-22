@@ -1,0 +1,6 @@
+testFile_62.txt
+norm
+tropical
+abnormal
+artist
+introduction

@@ -1,0 +1,6 @@
+testFile_700.txt
+treaty
+beneficiary
+skilled
+awful
+rush

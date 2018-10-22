@@ -1,0 +1,6 @@
+testFile_588.txt
+faint
+player
+Koran
+accept
+damage

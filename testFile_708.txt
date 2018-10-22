@@ -1,0 +1,5 @@
+testFile_708.txt
+competition
+era
+exit
+seize

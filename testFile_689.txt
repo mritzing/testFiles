@@ -1,0 +1,4 @@
+testFile_689.txt
+satisfied
+hallway
+indoor

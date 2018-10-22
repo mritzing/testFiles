@@ -1,0 +1,6 @@
+testFile_87.txt
+forbid
+period
+compact
+bin
+bland

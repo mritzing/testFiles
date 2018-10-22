@@ -1,0 +1,6 @@
+testFile_134.txt
+place
+Koran
+coat
+voice
+application

@@ -1,0 +1,5 @@
+testFile_393.txt
+indoor
+exposure
+candidate
+head

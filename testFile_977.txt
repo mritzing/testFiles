@@ -1,0 +1,6 @@
+testFile_977.txt
+strategic
+symbol
+elect
+deny
+rule

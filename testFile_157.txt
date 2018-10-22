@@ -1,0 +1,6 @@
+testFile_157.txt
+transparent
+player
+soft
+panel
+bad
